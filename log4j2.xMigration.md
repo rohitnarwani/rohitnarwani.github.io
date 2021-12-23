@@ -1,3 +1,4 @@
+# Migrating from Log4j 1.x to Log4j2.x/Logback
 ## Approach - 1 
 ### Using the Log4j 1.x bridge
 The simplest way to convert to using Log4j 2 is to replace the log4j 1.x jar file with Log4j 2's log4j-1.2-api.jar. You need to use below dependencies:
